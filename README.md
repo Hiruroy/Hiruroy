@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Hiru roy
 #### I am Frontend Developer
 
-Skills: /PHOTOSHOP / REACT / JS / HTML / CSS
+Skills: / PHOTOSHOP / JS / HTML / CSS
 
 - 🔭 I’m currently working on Frontend 
 - 🌱 I’m currently learning Backend 
